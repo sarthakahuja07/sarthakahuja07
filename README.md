@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthakahuja07&count_private=true&show_icons=true&theme=algolia&hide=contribs,issues)
+
+![Sarthak's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakahuja07&layout=compact&theme=algolia)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarthakahuja07&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Sarthak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sarthakahuja07&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
